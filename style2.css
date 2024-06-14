@@ -241,23 +241,19 @@ div#left ul li a {
   text-decoration: none;
   line-height: 50px;
 
-  padding-left: 50px;
+  padding-left: 80px;
   display: block;
 }
 
 #icon_tel {
-  background: url(../w/総合実践/HTML動画/05_zissenn_html_css/01.初級/初級トップページ（完成版）/images/icon_tel.png)
-    no-repeat 14px center;
+  background: url(images/電話（アイコン）.png) no-repeat 12px center;
 }
-
 #icon_blog {
-  background: url(../w/総合実践/HTML動画/05_zissenn_html_css/01.初級/初級トップページ（完成版）/images/icon_blog.png)
-    no-repeat 14px center;
+  background: url(images/ブログ（アイコン）.png) no-repeat 12px center;
 }
 
 #icon_voice {
-  background: url(../w/総合実践/HTML動画/05_zissenn_html_css/01.初級/初級トップページ（完成版）/images/icon_voice.png)
-    no-repeat 14px center;
+  background: url(images/お客様の声（アイコン）.png) no-repeat 12px center;
 }
 
 /* ========================================
